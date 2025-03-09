@@ -1,5 +1,5 @@
 
-execute as @e[tag=RNG_White_Func] at @s unless block ~ ~-1 ~ purple_wool unless block ~ ~-1 ~ red_wool store result score @s RNG_1 run random value 1..10 
+execute as @e[tag=RNG_White_Func] at @s unless block ~ ~-1 ~ purple_wool unless block ~ ~-1 ~ red_wool store result score @s RNG_1 run random value 1..20 
 
 
 
