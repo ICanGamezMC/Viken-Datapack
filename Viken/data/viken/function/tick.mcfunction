@@ -2,6 +2,3 @@
 
 
 
-function viken:worldgen/node1
-execute unless entity @e[tag=DataSetR2] run function viken:worldgen/node2
-function viken:worldgen/smoothingprot
