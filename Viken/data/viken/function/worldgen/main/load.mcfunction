@@ -1,4 +1,4 @@
-function viken:worldgen/main/reset
+function viken:worldgen/load/drawer
 
-function viken:worldgen/load/load_a
-function viken:worldgen/load/load_drawer
+
+function viken:worldgen/load/scoreboard
